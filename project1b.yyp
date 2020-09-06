@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_protag_hit","path":"sprites/spr_protag_hit/spr_protag_hit.yy",},"order":3,},
     {"id":{"name":"spr_protag_idle","path":"sprites/spr_protag_idle/spr_protag_idle.yy",},"order":1,},
     {"id":{"name":"obj_protag","path":"objects/obj_protag/obj_protag.yy",},"order":0,},
     {"id":{"name":"spr_protag_walk","path":"sprites/spr_protag_walk/spr_protag_walk.yy",},"order":2,},
