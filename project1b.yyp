@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_protag_idle","path":"sprites/spr_protag_idle/spr_protag_idle.yy",},"order":1,},
     {"id":{"name":"obj_protag","path":"objects/obj_protag/obj_protag.yy",},"order":0,},
+    {"id":{"name":"spr_protag_walk","path":"sprites/spr_protag_walk/spr_protag_walk.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
